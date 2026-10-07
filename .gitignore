@@ -1,0 +1,11 @@
+data/*
+outputs/
+catboost_info/
+app/*.rds
+*.RData
+*.Rhistory
+*.Rproj.user/
+.Renviron
+.env
+*.log
+*.zip
